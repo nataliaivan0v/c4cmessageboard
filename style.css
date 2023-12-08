@@ -1,0 +1,72 @@
+body {
+  font-family: Verdana, Verdana;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  margin: 0;
+  padding-top: 15px;
+}
+
+.messageBox {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 25px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  width: 784px;
+}
+
+.messageText {
+  margin-top: 3px;
+  font-size: 16px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.dateTime {
+  font-size: 10px;
+  color: #777;
+  margin-bottom: 3px;
+}
+
+#inputContainer {
+  width: 800px;
+  height: 30px;
+  display: flex;
+  padding-bottom: 20px;
+  font-size: 12px;
+}
+
+#inputBox {
+  font-family: Verdana;
+  flex: 1;
+  margin-right: 10px;
+  font-size: 12px;
+  border: 1.5px solid #3498db;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 7px;
+}
+
+#sendButton {
+  height: 30px;
+  font-family: Verdana;
+  font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  width: 60px;
+  background-color: gainsboro;
+
+}
+
+#sendButton:hover {
+  background-color: darkgray;
+}
