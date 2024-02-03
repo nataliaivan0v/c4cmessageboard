@@ -18,9 +18,7 @@ The sendMessage() function in the provided JavaScript code serves handles user i
 # Requirements
 The user can type a message into the input box and post it to the message board by clicking on the send button or by presising Enter. If the message is empty, it will not post to the board and if it is over 128 characters the page will give an alert saying that the message is too long.  <br>
 
-Messages on the message board show up from most to least recent. New messages are inserted at the top of the message flow.  <br>
-
-I was not able to fulfill the requirement that users on different computers can post to the same board and view each other’s messages. If I were to have implemented this requirement, I would've hooked up a database to my program to keep track of all the input made to the board across multiple devices. I attempted this, but was not able to figure out how to properly hook up the database without many errors.   
+Messages on the message board show up from most to least recent. New messages are inserted at the top of the message flow.  <br> 
 
 # How To Start the Application
 Paste this into your browser: https://c4c-message-board.replitnu.repl.co/
