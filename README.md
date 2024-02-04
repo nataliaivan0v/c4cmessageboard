@@ -21,4 +21,4 @@ The user can type a message into the input box and post it to the message board 
 Messages on the message board show up from most to least recent. New messages are inserted at the top of the message flow.  <br> 
 
 # How To Start the Application
-Paste this into your browser: https://c4c-message-board.replitnu.repl.co/
+Paste this into your browser: https://c5c4d020-5a27-43e2-85dd-13fc89a375c8-00-33j1qf3ec37bu.janeway.replit.dev/
